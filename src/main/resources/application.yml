@@ -1,0 +1,12 @@
+logging:
+  level:
+    pl:
+      kukla:
+        krzys:
+          guru: debug
+
+spring:
+  data:
+    mongodb:
+      port: 58555
+      host: localhost
